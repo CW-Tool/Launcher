@@ -366,14 +366,15 @@ class App {
 
     public function getCharInfo($name){
         $db = $this->Connect(self::$_conf['characters']);
-        $char = $db->select('characters',array('guid','power1','power2','power4','power7','class','name','level','race','gender','health','totaltime','totalHonorPoints','arenaPoints','totalKills'),array('name'=>$name));
+        //$char = $db->select('characters',array('guid','power1','power2','power4','class','name','level','race','gender','health','totaltime','totalHonorPoints','arenaPoints','totalKills'),array('name'=>$name));
+		$char = $db->select('characters',array('guid','power1','power2','power4','class','name','level','race','gender','health','totaltime','totalHonorPoints','arenaPoints','totalKills'),array('name'=>$name));
         if($char !== false and count($char) > 0){
             $character = $char[0];
 
             $mana = $character['power1'];  //mp
             $rage = $character['power2'];  //Rage
             $energy = $character['power4'];  //Energy
-            $powerRune = $character['power7'];  //runic power
+            $powerRune = ''; //$character['power7'];  //runic power
             $character_stat = $this->ClassState($character['class'],$mana,$rage,$energy,$powerRune);
 
             $stats = '';
@@ -389,12 +390,10 @@ class App {
             $stats['Honor'] = 'Honor Points: '.$character['totalHonorPoints'];
             $stats['Arena'] = 'Arena Points: '.$character['arenaPoints'];
             $stats['Kills'] = 'Total kills: '.$character['totalKills'];
-            $stats['Quest'] = 'Done Quests: '.$db->count('character_queststatus_rewarded', array(
-                    'guid' => $character['guid']
-                ));
-            $stats['Achiev'] = 'Obtain achievements: '.$db->count('character_achievement', array(
-                    'guid' => $character['guid']
-                ));
+            $stats['Quest'] = 'Done Quests: '.$db->count('character_queststatus', array('guid' => $character['guid'])); //$db->count('character_queststatus_rewarded', array('guid' => $character['guid']));
+            $stats['Achiev'] = 'Obtain achievements: '. '0' ;//$db->count('character_achievement', array(
+                   // 'guid' => $character['guid']
+                //));
 
             echo $this->XMLRender(array('Characters','Stat','CharBlock'),$stats);
         }else{

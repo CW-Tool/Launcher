@@ -1,15 +1,15 @@
 <?php
 return array(
     'host' => '127.0.0.1',
-    'user' => 'trinity',
-    'pass' => 'trinity',
+    'user' => 'root',
+    'pass' => 'root',
     'port' => '3306',
-    'auth' => 'auth',
+    'auth' => 'tbcrealmd',
     'news' => 'news',
-    'characters' => 'characters',
-    'world' => 'world',
+    'characters' => 'tbccharacters',
+    'world' => 'tbcmangos',
     'icon_db' => 'icontemplate',
-    'site_url' => 'http://127.0.0.1/',
+    'site_url' => 'http://127.0.0.1/launcherapi',
     'wowhead_url_icons' => 'http://wow.zamimg.com/images/wow/icons/large/',
 );
 
