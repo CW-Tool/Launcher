@@ -80,10 +80,12 @@ namespace WowSuite.Launcher
 
             var addressSet = new AddressSet
             {
+                //http://127.0.0.1/launcherapi/?_key=ffc312f882fbeeb51504483ee8c691a2&_url=count_online
                 OnlinePlayers = string.Format(Settings.Default.api_url + "?_key={0}&_url=count_online", Settings.Default.skey_api),
                 ServerPid = UrlHelper.Combine(Settings.Default.new_files, Wow.FileName.PID_FILE_NAME),
                 ServerPatchFile = Settings.Default.patchlist,
                 ServerFilesRoot = Settings.Default.new_files,
+                //http://127.0.0.1/launcherapi/?_key=ffc312f882fbeeb51504483ee8c691a2&_url=news
                 NewsAboutUpdate = string.Format(Settings.Default.api_url + "?_key={0}&_url=news", Settings.Default.skey_api),
                 HotNews = string.Format(Settings.Default.api_url + "?_key={0}&_url=hot_news", Settings.Default.skey_api),
                 LoadBannerNews = string.Format(Settings.Default.api_url + "?_key={0}&_url=news", Settings.Default.skey_api),
@@ -116,12 +118,12 @@ namespace WowSuite.Launcher
 
             try
             {
-                //Проверяем асинхронно требуется ли обновление.
-                bool needUpdate = await _updater.CheckUpdateAsync();
-                if (needUpdate)
-                {
-                    _updater.Update();
-                }
+                ////Проверяем асинхронно требуется ли обновление.
+                //bool needUpdate = await _updater.CheckUpdateAsync();
+                //if (needUpdate)
+                //{
+                //    _updater.Update();
+                //}
             }
             catch (Exception ex)
             {

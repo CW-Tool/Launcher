@@ -22,3 +22,9 @@ D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants
 D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.pdb
 D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.dll
 D:\WoWProjekt\Backup\FM Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.pdb
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.dll
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\bin\Debug\WowSuite.Constants.pdb
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.csprojAssemblyReference.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.csproj.CoreCompileInputs.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.dll
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Constants\obj\Debug\WowSuite.Constants.pdb

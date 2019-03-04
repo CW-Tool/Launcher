@@ -126,43 +126,43 @@ class App {
     private function OnlineIcon($race,$gender){
         switch ($race) {
             case 1:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_human-male.png' : $race = 'launcher/race/Ui-charactercreate-races_human-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_human-male.png' : $race = 'race/Ui-charactercreate-races_human-female.png';
                 break;
             case 2:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_orc-male.png' : $race = 'launcher/race/Ui-charactercreate-races_orc-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_orc-male.png' : $race = 'race/Ui-charactercreate-races_orc-female.png';
                 break;
             case 3:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_dwarf-male.png' : $race = 'launcher/race/Ui-charactercreate-races_dwarf-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_dwarf-male.png' : $race = 'race/Ui-charactercreate-races_dwarf-female.png';
                 break;
             case 4:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_nightelf-male.png' : $race = 'launcher/race/Ui-charactercreate-races_nightelf-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_nightelf-male.png' : $race = 'race/Ui-charactercreate-races_nightelf-female.png';
                 break;
             case 5:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_undead-male.png' : $race = 'launcher/race/Ui-charactercreate-races_undead-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_undead-male.png' : $race = 'race/Ui-charactercreate-races_undead-female.png';
                 break;
             case 6:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_tauren-male.png' : $race = 'launcher/race/Ui-charactercreate-races_tauren-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_tauren-male.png' : $race = 'race/Ui-charactercreate-races_tauren-female.png';
                 break;
             case 7:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_gnome-male.png' : $race = 'launcher/race/Ui-charactercreate-races_gnome-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_gnome-male.png' : $race = 'race/Ui-charactercreate-races_gnome-female.png';
                 break;
             case 8:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_troll-male.png' : $race = 'launcher/race/Ui-charactercreate-races_troll-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_troll-male.png' : $race = 'race/Ui-charactercreate-races_troll-female.png';
                 break;
             case 10:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_bloodelf-male.png' : $race = 'launcher/race/Ui-charactercreate-races_bloodelf-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_bloodelf-male.png' : $race = 'race/Ui-charactercreate-races_bloodelf-female.png';
                 break;
             case 11:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_draenei-male.png' : $race = 'launcher/race/Ui-charactercreate-races_draenei-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_draenei-male.png' : $race = 'race/Ui-charactercreate-races_draenei-female.png';
                 break;
             case 22:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_worgen-male.png' : $race = 'launcher/race/Ui-charactercreate-races_worgen-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_worgen-male.png' : $race = 'race/Ui-charactercreate-races_worgen-female.png';
                 break;
             case 9:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_goblin-male.png' : $race = 'launcher/race/Ui-charactercreate-races_goblin-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_goblin-male.png' : $race = 'race/Ui-charactercreate-races_goblin-female.png';
                 break;
             case 24:
-                ($gender === 0) ? $race = 'launcher/race/Ui-charactercreate-races_pandaren-male.png' : $race = 'launcher/race/Ui-charactercreate-races_pandaren-female.png';
+                ($gender === 0) ? $race = 'race/Ui-charactercreate-races_pandaren-male.png' : $race = 'race/Ui-charactercreate-races_pandaren-female.png';
                 break;
         }
         return $race;
@@ -177,10 +177,10 @@ class App {
                 ($gender === 0) ? $race = 'Resources/charBg/2-0.jpg' : $race = 'Resources/charBg/2-1.jpg';
                 break;  //orks
             case 3:
-                ($gender === 0) ? $race = 'Resources/charBg/3-0.jpg' : $race = 'launcher/character/charBg/3-1.jpg';
+                ($gender === 0) ? $race = 'Resources/charBg/3-0.jpg' : $race = 'Resources/charBg/3-1.jpg';
                 break;  //dwarfs
             case 4:
-                ($gender === 0) ? $race = 'Resources/charBg/4-0.jpg' : $race = 'launcher/character/charBg/4-1.jpg';
+                ($gender === 0) ? $race = 'Resources/charBg/4-0.jpg' : $race = 'Resources/charBg/4-1.jpg';
                 break; //night elfs
             case 5:
                 ($gender === 0) ? $race = 'Resources/charBg/5-0.jpg' : $race = 'Resources/charBg/5-1.jpg';
@@ -358,7 +358,7 @@ class App {
 
     private function is_item($item){
         if (is_numeric($item)) {
-            return self::$_conf['site_url'] . 'launcher/race/noteImage.png';
+            return self::$_conf['site_url'] . 'race/noteImage.png';
         } else {
             return self::$_conf['wowhead_url_icons'].$item.'.jpg';
         }
@@ -468,7 +468,7 @@ class App {
     public function getOnline(){
         $db = $this->Connect(self::$_conf['characters']);
         $online = '';
-        $online_list = $db->query("SELECT name,race,class,level,gender FROM `characters` WHERE `online` = 1 AND NOT `extra_flags` & 16 ORDER BY `name`")->fetchAll();
+        $online_list = $db->query("SELECT name,race,class,level,gender,totaltime FROM `characters` WHERE `online` = 1 AND NOT `extra_flags` & 16 ORDER BY `name`")->fetchAll();
 
         if($online_list !== false and count($online_list) > 0){
 

@@ -9,7 +9,7 @@ return array(
     'characters' => 'tbccharacters',
     'world' => 'tbcmangos',
     'icon_db' => 'icontemplate',
-    'site_url' => 'http://127.0.0.1/launcherapi',
+    'site_url' => 'http://127.0.0.1/launcherapi/', //must have / at behind
     'wowhead_url_icons' => 'http://wow.zamimg.com/images/wow/icons/large/',
 );
 

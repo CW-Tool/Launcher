@@ -159,9 +159,8 @@ namespace WowSuite.Launcher
                     }
                     catch (Exception err)
                     {
-
                         MessageBox.Show(
-                            "Not possible to generate a character info. Please restart the program. If the error persists, again, please contact technical support project");
+                            "Not possible to generate a character info. Please restart the program. If the error persists, again, please contact technical support project", err.Message);
                     }
                     break;
 

@@ -18,7 +18,7 @@
       <Value Profile="(Default)">OneLife</Value>
     </Setting>
     <Setting Name="patchlist" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">http://development.frostmourne.eu/launcherapi/index.php</Value>
+      <Value Profile="(Default)">http://127.0.0.1/launcherapi/index.php</Value>
     </Setting>
     <Setting Name="world_port" Type="System.Int32" Scope="Application">
       <Value Profile="(Default)">8085</Value>
@@ -27,22 +27,22 @@
       <Value Profile="(Default)">3306</Value>
     </Setting>
     <Setting Name="world_ip" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">88.198.51.248</Value>
+      <Value Profile="(Default)">127.0.0.1</Value>
     </Setting>
     <Setting Name="lang_wow" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">deDE</Value>
+      <Value Profile="(Default)">zhCN</Value>
     </Setting>
     <Setting Name="realmlist" Type="System.String" Scope="Application">
       <Value Profile="(Default)">set realmlist 127.0.0.1</Value>
     </Setting>
     <Setting Name="api_url" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">http://development.frostmourne.eu/launcherapi/index.php</Value>
+      <Value Profile="(Default)">http://127.0.0.1/launcherapi/index.php</Value>
     </Setting>
     <Setting Name="skey_api" Type="System.String" Scope="Application">
       <Value Profile="(Default)">ffc312f882fbeeb51504483ee8c691a2</Value>
     </Setting>
     <Setting Name="new_files" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">http://development.frostmourne.eu/launcherapi/index.php</Value>
+      <Value Profile="(Default)">http://127.0.0.1/launcherapi/index.php</Value>
     </Setting>
     <Setting Name="mysql_ip" Type="System.String" Scope="Application">
       <Value Profile="(Default)">127.0.0.1</Value>

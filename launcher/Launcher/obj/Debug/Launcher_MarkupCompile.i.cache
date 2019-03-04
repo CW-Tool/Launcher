@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\
 WowSuite.Launcher
 none
 false
 DEBUG;TRACE
-D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\App.xaml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\App.xaml
 11977980492
 
-35-1605648240
-17-107068044
+351890354895
+17-220594358
 Animation\AnimatedImageControl.xaml;CharacterInfo.xaml;Controls\NewsRotator.xaml;Controls\StatisticControl.xaml;MainWindow.xaml;OnlineStat.xaml;Resources\Dictionaries\Buttons.xaml;Resources\Dictionaries\Effects.xaml;Resources\Dictionaries\Progressbar.xaml;Resources\Dictionaries\Scroll.xaml;SettingsWindow.xaml;
 
 True

@@ -48,6 +48,7 @@ namespace WowSuite.Launcher
             };
             var addressSet = new AddressSet
             {
+                //http://127.0.0.1/launcherapi/?_key=ffc312f882fbeeb51504483ee8c691a2&_url=online
                 LoadStatOnline = string.Format(Settings.Default.api_url + "?_key={0}&_url=online", Settings.Default.skey_api),
             };
 
@@ -87,7 +88,7 @@ namespace WowSuite.Launcher
                     catch (Exception err)
                     {
 
-                        MessageBox.Show("Not possible to generate a list of characters. Please restart the program. If the error persists, again, please contact technical support project");
+                        MessageBox.Show("Not possible to generate a list of characters. Please restart the program. If the error persists, again, please contact technical support project", err.Message);
                     }
                     
                     break;

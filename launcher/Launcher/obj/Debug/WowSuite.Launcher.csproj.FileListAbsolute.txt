@@ -203,3 +203,46 @@ D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.c
 D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
 D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.exe.manifest
 D:\WoWProjekt\Backup\FM Launcher\launcher\Launcher\obj\Debug\Launcher.application
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\Launcher.exe.config
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\Launcher.exe.manifest
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\Launcher.application
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\Launcher.exe
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\Launcher.pdb
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.dll
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.dll
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\WowSuite.Constants.pdb
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\bin\Debug\WowSuite.Utils.pdb
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csprojAssemblyReference.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\SettingsWindow.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\App.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\CharacterInfo.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Controls\StatisticControl.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\MainWindow.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\OnlineStat.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\App.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\CharacterInfo.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\MainWindow.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\OnlineStat.baml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.g.resources
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.Properties.Resources.resources
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.GenerateResource.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.CoreCompileInputs.cache
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.exe.manifest
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.application
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\WowSuite.Launcher.csproj.CopyComplete
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.exe
+E:\WOWServer\TrinityBuilder\Source\Launcher\launcher\Launcher\obj\Debug\Launcher.pdb

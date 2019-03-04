@@ -13,7 +13,7 @@ namespace WowSuite.Launcher.Config
         }
 
         /// <summary>
-        /// Путь к файлу, хранящему логин и пароль для авторизации
+        /// Путь ?файл? хранящему логи??пароль для авторизаци?
         /// </summary>
         public string AuthDataFile { get; private set; }
     }
